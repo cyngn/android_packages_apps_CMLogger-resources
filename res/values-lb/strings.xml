@@ -7,5 +7,5 @@
   <string name="pref_menu__privacy_policy">Dateschutzerkläerung</string>
   <string name="pref_menu__terms_of_service">Benotzungskonditiounen</string>
   <string name="anonymous_logging_warning_title">Iwwer</string>
-  <string name="anonymous_logging_warning">D\'Ofstuerz-Protokolléierung, erméiglecht et, am Fall vun engerm Ofstuerz net-persounebezunnen Daten un d\'Entwéckler vu CyanogenMod ze schécken, fir d\'Ursaach vum Ofstuerz ermëttelen ze kënnen. Déi iwwerdroen Informatiounen enthalen en anonymiséierten Token, duerch deen den Apparat eendeiteg identifizéierbar ass. D\'Sécherheet vun denge privaten Daten ass awer net a Gefor.</string>
+  <string name="anonymous_logging_warning">D\'Ofstuerz-Protokolléierung, erméiglecht et, am Fall vun engerm Ofstuerz net-persounebezunnen Daten un d\'Entwéckler vu CyanogenMod ze schécken, fir d\'Ursaach vum Ofstuerz ermëttelen ze kënnen. Déi iwwerdroen Informatiounen hunn en anonymiséierten Token, duerch deen den Apparat eendeiteg identifizéierbar ass. D\'Sécherheet vun denge privaten Daten ass awer net a Gefor.</string>
 </resources>
