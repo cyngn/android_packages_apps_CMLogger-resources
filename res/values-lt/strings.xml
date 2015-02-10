@@ -7,7 +7,7 @@
   <string name="pref_menu__privacy_policy">Privatumo politika</string>
   <string name="pref_menu__terms_of_service">Paslaugų teikimo sąlygos</string>
   <string name="anonymous_logging_warning_title">Apie</string>
-  <string name="anonymous_logging_warning">Pasirinkus gedimų registravimą bus leidžiama ne asmeniniams gedimų įrašams būti pateiktiems
+  <string name="anonymous_logging_warning">Pasirinkus riktų registravimą bus leidžiama ne asmeniniams riktų įrašams būti pateiktiems
 „CyanogenMod“ kūrėjams, sekti klaidas. Pateiktoje informacijoje bus anonimiškas identifikatorius,
 neatskleidžiantis jūsų privatumo ar asmeninių duomenų.</string>
 </resources>
