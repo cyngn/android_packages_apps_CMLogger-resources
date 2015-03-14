@@ -3,4 +3,9 @@
 <resources>
   <string name="app_name">CM Logija</string>
   <string name="enable_reporting_title">Luba logimine</string>
+  <string name="pref_activity_title">CM Logija seaded</string>
+  <string name="pref_menu__privacy_policy">Privaatsuspoliitika</string>
+  <string name="pref_menu__terms_of_service">Kasutustingimused</string>
+  <string name="anonymous_logging_warning_title">Üldist</string>
+  <string name="anonymous_logging_warning">Vearaportite logimine võimaldab mitte-personaalsete vearaportite saatmist CyanogenModi arendajatele vigade leidmiseks. Esitatud andmed sisaldavad anonüümset identifikaatorit, mis ei sea ohtu teie privaatsust ja isikuandmeid.</string>
 </resources>
