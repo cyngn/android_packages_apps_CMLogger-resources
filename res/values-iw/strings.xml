@@ -7,5 +7,5 @@
   <string name="pref_menu__privacy_policy">מדיניות הפרטיות</string>
   <string name="pref_menu__terms_of_service">תנאי שימוש</string>
   <string name="anonymous_logging_warning_title">אודות</string>
-  <string name="anonymous_logging_warning">אפשרות של רישום קריסה תאפשר מידע על קריסה ללא מידע אישי להישלח למפתחי CyanogenMod כדי לתקן שגיאות. מידע זה מכיל מזהה אנונימי, אשר לא יפגע בפרטיות או במידע האישי שלך.</string>
+  <string name="anonymous_logging_warning">אפשרות של רישום קריסה תאפשר לרישום הקריסה ללא פרטים אישיים להישלח למפתחי CyanogenMod כדי לתקן שגיאות. מידע זה מכיל מזהה אנונימי, אשר לא יפגע בפרטיות או במידע האישי שלך.</string>
 </resources>
