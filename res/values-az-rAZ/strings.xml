@@ -7,4 +7,7 @@
   <string name="pref_menu__privacy_policy">Gizlilik siyasəti</string>
   <string name="pref_menu__terms_of_service">Xidmət Şərtləri</string>
   <string name="anonymous_logging_warning_title">Haqqında</string>
+  <string name="anonymous_logging_warning">Xəta qeydiyyatına qoşulmaq, xətaların izlənməsi
+        üçün CyanogenMod tərtibatçılarına şəxsi olmayan xəta qeydlərinin göndərilməsinə icazə verəcək. Göndərilən məlumatlar, gizliliyinizə və ya
+        şəxsi məlumatlarınıza təsir etməyəcək bir adsız kimliyi ehtiva edir.</string>
 </resources>
