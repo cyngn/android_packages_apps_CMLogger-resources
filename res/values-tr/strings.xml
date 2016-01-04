@@ -8,6 +8,6 @@
   <string name="pref_menu__terms_of_service">Hizmet Koşulları</string>
   <string name="anonymous_logging_warning_title">Hakkında</string>
   <string name="anonymous_logging_warning">Hata kaydına katılmak, hataların takibi için CyanogenMod geliştiricilerine
-kişisel olmayan hata kayıtlarının iletilmesine imkan verecek. İletilen bilgiler
+kişisel olmayan hata kayıtlarının iletilmesine imkan verecektir. İletilen bilgiler
 gizliliğinizi ya da kişisel bilgilerinizi ihlal etmeyecek isimsiz bir kimlik içerir.</string>
 </resources>
