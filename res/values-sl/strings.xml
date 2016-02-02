@@ -8,6 +8,6 @@
   <string name="pref_menu__terms_of_service">Pogoji storitve</string>
   <string name="anonymous_logging_warning_title">O zapisovalniku</string>
   <string name="anonymous_logging_warning">Izbira možnosti za beleženje dnevnika sesutja bo dovolila pošiljanje dnevnikov z neosebnimi podatki
-        razvijalcem CyanogenModa, da lahko sledijo napakam. Poslani podatki vključujejo anonimni določevalec,
+        razvijalcem CyanogenModa, da lahko sledijo napakam. Poslani podatki vključujejo anonimni določilnik,
         ki ne ogroža vaše zasebnosti ali osebnih podatkov.</string>
 </resources>
