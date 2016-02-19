@@ -3,9 +3,9 @@
 <resources>
   <string name="app_name">Отчёты об ошибках CyanogenMod</string>
   <string name="enable_reporting_title">Включить ведение журнала</string>
-  <string name="pref_activity_title">Отчёты об ошибках</string>
+  <string name="pref_activity_title">Настройки отчётов об ошибках</string>
   <string name="pref_menu__privacy_policy">Политика конфиденциальности</string>
-  <string name="pref_menu__terms_of_service">Пользовательское соглашение</string>
-  <string name="anonymous_logging_warning_title">Информация об использовании</string>
+  <string name="pref_menu__terms_of_service">Условия использования</string>
+  <string name="anonymous_logging_warning_title">Сведения</string>
   <string name="anonymous_logging_warning">Анонимные отчёты позволяют разработчикам CyanogenMod получать обобщённые сообщения об ошибках, которые могут возникать в процессе работы. Помимо таких сообщений, будет передаваться уникальный код, который не может быть использован для вашей идентификации.</string>
 </resources>
