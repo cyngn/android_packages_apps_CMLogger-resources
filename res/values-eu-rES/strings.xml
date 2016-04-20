@@ -7,5 +7,5 @@
   <string name="pref_menu__privacy_policy">Pribatutasun politika</string>
   <string name="pref_menu__terms_of_service">Zerbitzuaren baldintzak</string>
   <string name="anonymous_logging_warning_title">Honi buruz</string>
-  <string name="anonymous_logging_warning">Kraskatze erregistroa gaitzeak informazio pertsonalik gabeko kraskatze-txostenak CyanogenMod garatzaileei bidaltzea baimenduko du erroreen segimendua egin ahal izateko. Bidalitako informazioak zure pribatutasuna eta datu pertsonalak kolokan jartzen ez dituen identifikadore anonimo bat izango du.</string>
+  <string name="anonymous_logging_warning">Kraskatze erregistroa gaitzeak CyanogenMod-en garatzaileei kraskatze-txosten anonimoak bidaltzea baimenduko du erroreen jarraipena egin ahal izateko. Bidalitako informazioak zure pribatutasuna eta datu pertsonalak kolokan jartzen ez dituen identifikadore anonimo bat izango du.</string>
 </resources>
