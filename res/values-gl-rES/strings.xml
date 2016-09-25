@@ -5,5 +5,7 @@
   <string name="enable_reporting_title">Activar o rexistro</string>
   <string name="pref_activity_title">Configuración de rexistro de erros de CM</string>
   <string name="pref_menu__privacy_policy">Política de privacidade</string>
+  <string name="pref_menu__terms_of_service">Termos do servizo</string>
   <string name="anonymous_logging_warning_title">Verbo de</string>
+  <string name="anonymous_logging_warning">Optar polo rexistro de fallos permitirá que os informes de fallos, sen información persoal, se lle comuniquen aos desenvolvedores de CyanogenMod para o seu seguimento. A información presentada inclúe un identificador anónimo que non compromete nin a súa privacidade nin o seus datos persoais.</string>
 </resources>
